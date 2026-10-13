@@ -5,3 +5,6 @@
  <a href="tryshyzov">
     <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+ <a href="tryshyzov.ru">
+    <img src="https://img.shields.io/badge/site-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site"/>
+  </a>
