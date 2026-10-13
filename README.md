@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Mono&size=22&pause=1000&color=FFFFFF&background=000000&repeat=false&width=450&height=75&lines=try%40macbook+~+%25+claude)](https://git.io/typing-svg)" />
+</p>
 
 <!--
 **tryshyzov/tryshyzov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
