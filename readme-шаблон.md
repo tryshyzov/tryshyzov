@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&size=22&pause=1000&color=38F724&background=000000&multiline=true&width=450&height=70&lines=try%40macbook+~+%25+claude" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&size=22&duration=3000&color=F7F7F7&background=000000&center=true&multiline=true&width=250&height=90&lines=try+again+try+again;try+again+try+again;try+again+try+again" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,48 +15,36 @@
   <a href="https://tryshyzov.ru">
     <img src="https://img.shields.io/badge/site-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site"/>
   </a>
-  <a href="mailto:[your@email.com]">
+  <a href="mailto:[tryshyzov@gmail.com]">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=tryshyzov&style=for-the-badge&color=000000&label=views" alt="Profile views"/>
-</p>
 
 ---
 
 ## 👋 Обо мне
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&size=22&pause=1000&color=38F724&background=000000&multiline=true&repeat=false&width=450&height=70&lines=tryshyzov%40MacBook+~+%25+whoami;tryshyzov" alt="Typing SVG" />
+</p>
 
-```bash
-$ whoami
-```
-
-- 🧑‍💻 [Кто ты: например, backend-разработчик / студент / дизайнер]
-- 🔭 Сейчас работаю над **[название проекта](https://github.com/tryshyzov/[repo])**
-- 🌱 Изучаю **[технология]**
-- 📍 [Город, страна]
-- ⚡ Факт обо мне: [что-нибудь интересное]
+- 🧑‍💻 - **Designer / Дизайнер**
+- 🔭 - **I am currently working on** **[LumaLink](https://github.com/tryshyzov/[lumacam])** / **Сейчас работаю над** **[LumaLink](https://github.com/tryshyzov/[lumacam])**
+- 📍 - **Russian Federation, Vladivistok.**
+- ⚡ - **A fact about me: At any random moment, I might get an idea to "do something" / Факт обо мне: В рандомный момент может придти идея "что нибудь сделать"**
 
 ## 🛠 Стек
 
 <!-- Иконки: https://skillicons.dev — просто перечисли нужные через запятую в ?i= -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,git,linux,vscode&theme=dark" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,git,vscode,ai,ps,figma&theme=dark" alt="Skills"/>
 </p>
 
 ## 🚀 Проекты
 
-| Проект | Описание | Стек |
-|--------|----------|------|
-| [**project-one**](https://github.com/tryshyzov/project-one) | [Короткое описание] | `Python` `FastAPI` |
-| [**project-two**](https://github.com/tryshyzov/project-two) | [Короткое описание] | `TypeScript` `React` |
-| [**project-three**](https://github.com/tryshyzov/project-three) | [Короткое описание] | `Go` |
-
-<!-- Альтернатива таблице — карточки закреплённых репозиториев:
 <p align="center">
-  <a href="https://github.com/tryshyzov/project-one">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tryshyzov&repo=project-one&theme=dark&bg_color=000000&hide_border=true" />
+  <a href="https://github.com/tryshyzov/lumacam">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tryshyzov&repo=lumacam&theme=dark&bg_color=000000&hide_border=true" />
   </a>
 </p>
--->
 
 ## 📊 Статистика
 
