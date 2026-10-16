@@ -27,7 +27,7 @@
 </p>
 
 - 🧑‍💻 - **Designer / Дизайнер**
-- 🔭 - **I am currently working on** **[LumaLink](https://github.com/tryshyzov/[lumacam])** / **Сейчас работаю над** **[LumaLink](https://github.com/tryshyzov/[lumacam])**
+- 🔭 - **I am currently working on** **[LumaLink](https://github.com/tryshyzov/lumacam)** / **Сейчас работаю над** **[LumaLink](https://github.com/tryshyzov/lumacam)**
 - 📍 - **Russian Federation, Vladivistok.**
 - ⚡ - **A fact about me: At any random moment, I might get an idea to "do something" / Факт обо мне: В рандомный момент может придти идея "что нибудь сделать"**
 
