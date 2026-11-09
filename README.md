@@ -46,6 +46,23 @@
   </a>
 </p>
 
+## 💸 Поддержать / Support
+
+<p align="left">
+  <a href="https://www.donationalerts.com/r/tryshyzov">
+    <img src="https://img.shields.io/badge/DonationAlerts-F57D07?style=for-the-badge&logoColor=white" alt="DonationAlerts"/>
+  </a>
+  <a href="https://qr.crypt.bot/?url=TK787wDdmME8J6cpgLgqiaoV1EB6NK37hc">
+    <img src="https://img.shields.io/badge/USDT_TRC20-000000?style=for-the-badge&logo=tether&logoColor=white" alt="USDT TRC20"/>
+  </a>
+</p>
+
+USDT, только сеть TRON (TRC20) / TRON network only:
+
+```
+TK787wDdmME8J6cpgLgqiaoV1EB6NK37hc
+```
+
 ## 📊 Статистика
 
 <p align="center">
