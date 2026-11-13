@@ -39,9 +39,9 @@
 ## ✦ Проекты / Projects
 
 <p align="center">
-  <a href="https://github.com/tryshyzov/lumacam"><img src="https://github-stats-extended.vercel.app/api/pin?username=tryshyzov&repo=lumacam&bg_color=233871&title_color=E75395&text_color=E6D6F0&icon_color=E75395&hide_border=true&border_radius=12&description_lines_count=3" width="47%" alt="LumaLink"/></a>
+  <a href="https://github.com/tryshyzov/lumacam"><img src="https://cards.tryshyzov.ru/api/pin?username=tryshyzov&repo=lumacam&theme=tryshyzov&hide_border=true&description_lines_count=3" width="47%" alt="LumaLink"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/tryshyzov/FckCensor-Rework"><img src="https://github-stats-extended.vercel.app/api/pin?username=tryshyzov&repo=FckCensor-Rework&bg_color=233871&title_color=E75395&text_color=E6D6F0&icon_color=E75395&hide_border=true&border_radius=12&description_lines_count=3" width="47%" alt="FckCensor-Rework"/></a>
+  <a href="https://github.com/tryshyzov/FckCensor-Rework"><img src="https://cards.tryshyzov.ru/api/pin?username=tryshyzov&repo=FckCensor-Rework&theme=tryshyzov&hide_border=true&description_lines_count=3" width="47%" alt="FckCensor-Rework"/></a>
 </p>
 
 ## ✦ Поддержать / Support
@@ -60,12 +60,16 @@ TK787wDdmME8J6cpgLgqiaoV1EB6NK37hc
 ## ✦ Статистика / Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=tryshyzov&show_icons=true&bg_color=233871&title_color=E75395&icon_color=E75395&text_color=E6D6F0&hide_border=true&border_radius=12" alt="GitHub stats"/>
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=tryshyzov&layout=compact&bg_color=233871&title_color=E75395&text_color=E6D6F0&hide_border=true&border_radius=12" alt="Top languages"/>
+  <img height="165" src="https://cards.tryshyzov.ru/api/stats?username=tryshyzov&theme=tryshyzov&hide_border=true" alt="GitHub stats"/>
+  <img height="165" src="https://cards.tryshyzov.ru/api/langs?username=tryshyzov&theme=tryshyzov&style=compact&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tryshyzov&background=233871&border=233871&ring=E75395&fire=E75395&currStreakNum=E6D6F0&sideNums=E6D6F0&currStreakLabel=E75395&sideLabels=AF8FC0&dates=AF8FC0&stroke=5F3189&hide_border=true&border_radius=12" alt="GitHub streak"/>
+  <img src="https://cards.tryshyzov.ru/api/streak?username=tryshyzov&theme=tryshyzov&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://cards.tryshyzov.ru/api/activity?username=tryshyzov&theme=tryshyzov&hide_border=true" width="100%" alt="Activity"/>
 </p>
 
 <p align="center">
